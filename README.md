@@ -1,9 +1,9 @@
 # pathFindVisualization
 
-A python visualization of the A* path finding algorithm.  
-It allows you to pick your start and end location and view the process of finding the shortest path.  
+A* algorithm Python visualization.  
+Pick start and end point. Algorithm calculates shortest path from points.  
 
-Requirements  
+Requirements:  
 Python 3.x  
 TKinter  
 Pygame  
